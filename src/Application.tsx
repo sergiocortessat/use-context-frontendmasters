@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import { ColorSwatch } from './ColorSwatch';
 import { ColorInputs } from './ColorInputs';
-import { ColorSliders } from './ColorSliders';
+// import { ColorSliders } from './ColorSliders';
 
 import { ThemeContext } from './ThemeContext';
 
