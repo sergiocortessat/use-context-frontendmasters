@@ -1,6 +1,6 @@
 import * as React from "react";
 import { AdjustmentAction, reducer } from "./reducer";
-
+// ggg
 import { RGBColorType } from "./types";
 
 interface RGBContextType extends RGBColorType {
